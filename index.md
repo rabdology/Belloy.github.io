@@ -9,19 +9,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 作成した3D Model
 
-# Header 1
-## Header 2
-### Header 3
+現在は大まかにGoogle Driveにまとめております。
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Google Drive](url) and ![Image](src)
 ```
 
 ```markdown
