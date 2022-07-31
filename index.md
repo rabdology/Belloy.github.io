@@ -11,11 +11,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 現在は大まかにGoogle Driveにまとめております。
 
-[Google Drive](url) and ![Image](src)
+[Google Drive](https://drive.google.com/drive/folders/1VVZuyV3QSCteyabnrhFWwVWebsH8wO69?usp=sharing) and ![Image](src)
 ```
 
 ```markdown
-作成した記事
+作成に協力した記事
 
 # Header 1
 ## Header 2
