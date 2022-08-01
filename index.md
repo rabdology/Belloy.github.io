@@ -4,8 +4,8 @@
 
 
 # 作成した3D Model
-現在は大まかにGoogle Driveにまとめております。
-[Google Drive](https://drive.google.com/drive/folders/1VVZuyV3QSCteyabnrhFWwVWebsH8wO69?usp=sharing)
+現在は大まかに[Google Drive](https://drive.google.com/drive/folders/1VVZuyV3QSCteyabnrhFWwVWebsH8wO69?usp=sharing)
+にまとめております。
 
 
 # 作成に協力した記事
@@ -15,23 +15,17 @@
 ## MPUF
 [THE "KYOTO" MEISTER COLLECTION](https://meistercollection.kyoto/)
 
-
+## 携わった仕事
 ```markdown
-携わった仕事に関するスライド
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numberedau
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+民間
+・書店
+・郵便局
+・土木(電柱の穴掘・歩道の補修等)
+学校
+・高校の授業で用いるスライドの作成
+・食品科学系の記事作成
+・
+官公庁
 ```
 
 
