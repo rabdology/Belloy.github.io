@@ -18,6 +18,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 # tayo.magazine
 [tayo conference vol.1 astrobiology オンライン要旨集](https://magazine.tayo.jp/2021/09/16/tayo-conference-vol-1-astrobiology-%e3%82%aa%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%b3%e8%a6%81%e6%97%a8%e9%9b%86/)
+[Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 # テックコネクト
 [THE "KYOTO" MEISTER COLLECTION](https://meistercollection.kyoto/)
