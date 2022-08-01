@@ -2,10 +2,6 @@
 
 現在整備中です。少々お待ち下さい。
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 
 # 作成した3D Model
 現在は大まかにGoogle Driveにまとめております。
