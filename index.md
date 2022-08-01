@@ -6,18 +6,17 @@
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-作成した3D Model
+
+# 作成した3D Model
 現在は大まかにGoogle Driveにまとめております。
-```
 [Google Drive](https://drive.google.com/drive/folders/1VVZuyV3QSCteyabnrhFWwVWebsH8wO69?usp=sharing)
 
-```markdown
-作成に協力した記事
-```
-# tayo.magazine
+
+# 作成に協力した記事
+
+## tayo.magazine
 [tayo conference vol.1 astrobiology オンライン要旨集](https://magazine.tayo.jp/2021/09/16/tayo-conference-vol-1-astrobiology-%e3%82%aa%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%b3%e8%a6%81%e6%97%a8%e9%9b%86/)
-# テックコネクト
+## テックコネクト
 [THE "KYOTO" MEISTER COLLECTION](https://meistercollection.kyoto/)
 
 
