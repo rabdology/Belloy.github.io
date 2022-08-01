@@ -8,10 +8,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 作成した3D Model
-
 現在は大まかにGoogle Driveにまとめております。
 
-[Google Drive](https://drive.google.com/drive/folders/1VVZuyV3QSCteyabnrhFWwVWebsH8wO69?usp=sharing) and ![Image](src)
+[Google Drive](https://drive.google.com/drive/folders/1VVZuyV3QSCteyabnrhFWwVWebsH8wO69?usp=sharing)
 ```
 
 ```markdown
