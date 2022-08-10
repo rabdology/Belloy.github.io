@@ -30,6 +30,10 @@
 ```
 
 # 所属している学会や創作グループなど
+[放送大学教養学部　自然と環境コース](https://www.ouj.ac.jp/)
+
 [日本生態学会](https://www.esj.ne.jp/esj/)
 
 [建築情報学会](https://fellow.ais-j.org/)
+
+
