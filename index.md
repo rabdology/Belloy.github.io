@@ -36,4 +36,5 @@
 
 [建築情報学会](https://fellow.ais-j.org/)
 
+[日本バイオインフォマティクス学会](https://www.jsbi.org/)
 
