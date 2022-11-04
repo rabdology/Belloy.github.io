@@ -14,6 +14,8 @@
 [tayo conference vol.1 astrobiology オンライン要旨集](https://magazine.tayo.jp/2021/09/16/tayo-conference-vol-1-astrobiology-%e3%82%aa%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%b3%e8%a6%81%e6%97%a8%e9%9b%86/)
 ## MPUF
 [THE "KYOTO" MEISTER COLLECTION](https://meistercollection.kyoto/)
+## 株式会社デイダラボッチ
+[ホームページ全般](https://daydallersinc.sakura.ne.jp/main/)
 
 ## 携わった仕事
 ```markdown
@@ -21,6 +23,7 @@
 ・書店
 ・郵便局
 ・土木(電柱の穴掘・歩道の補修等)
+・コールセンター
 学校
 ・高校の授業で用いるスライドの作成
 ・食品科学系の研究室における記事作成
