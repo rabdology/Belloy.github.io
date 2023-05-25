@@ -17,7 +17,7 @@
 ## 株式会社デイダラボッチ
 [ホームページ全般](https://daydallersinc.sakura.ne.jp/main/)
 
-## 携わった(お手伝いをした)仕事
+# 携わった(お手伝いをした)仕事
 ```markdown
 民間
 ・書店
