@@ -50,6 +50,4 @@
 
 [総合創作界隈『悠里』](https://twitter.com/jclaws_pr)
 
-# テスト
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQZ9TzGSeINM65XO0fW7KmWz7P-W5BPYAlPOcbOcDJSVddy_dlR9n59hf2tTrts0pcf_8UqJsRnOmQ8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+#　SandBox
